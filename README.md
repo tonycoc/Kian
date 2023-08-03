@@ -1,14 +1,14 @@
 # WhoAmi
-hi im kian , a SoftwareDeveloper and creator ,i live in `Iran` 💚🤍❤ 
+#### hi im kian , a SoftwareDeveloper and creator ,i live in `Iran` 💚🤍❤ 
 
-for now i'm working as BackEnd and Telegram Bot Developer *Freelancer*
+#### for now i'm working as BackEnd and Telegram Bot Developer *Freelancer*
 
 # Skills
-
 ## languages
 ![icons8-rust-programming-language-64](https://github.com/tonycoc/Kian/assets/78940146/24e63c88-a976-447d-a9f5-4b62326715d6)
 ![icons8-python-64](https://github.com/tonycoc/Kian/assets/78940146/79c0e9f6-821f-4649-84f5-8daabbc88ad7)
 ![icons8-sql-64 (1)](https://github.com/tonycoc/Kian/assets/78940146/c298eea6-d648-4199-acd1-f783f83aba1d)
+
 
 
 ## FrameWork/Tool
@@ -20,6 +20,7 @@ for now i'm working as BackEnd and Telegram Bot Developer *Freelancer*
 ![icons8-docker-62](https://github.com/tonycoc/Kian/assets/78940146/2ea5a6aa-e0ca-4010-80f1-7563def3fe1e)
 
 ![icons8-wireshark-62](https://github.com/tonycoc/Kian/assets/78940146/81585a1d-c8cf-4dab-9523-b55ba1b61b01)
+
 
 
 # OS
