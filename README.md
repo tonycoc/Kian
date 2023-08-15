@@ -14,9 +14,8 @@
 
 
 
-
-![icons8-css-100](https://github.com/tonycoc/tonycoc/assets/78940146/1154071d-7fdf-4cc6-b7e9-5656f4f087d4)
-![icons8-html-100](https://github.com/tonycoc/tonycoc/assets/78940146/0b4675db-de35-46ba-b48f-371318481663)
+![icons8-html-90](https://github.com/tonycoc/tonycoc/assets/78940146/5841ebed-c304-4267-983b-48d998bd4007)
+![icons8-css-90](https://github.com/tonycoc/tonycoc/assets/78940146/54c15331-98bc-43d8-b2cd-fd6551df9465)
 ![icons8-javascript-90](https://github.com/tonycoc/tonycoc/assets/78940146/4a94bd0c-ab15-485f-bc63-6f8e2276ebdc)
 
 
