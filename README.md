@@ -9,14 +9,15 @@
 
 ## languages
 ![icons8-rust-programming-language-62](https://github.com/tonycoc/tonycoc/assets/78940146/7d595cb4-6c96-4fd8-8cb3-e24d77a5aec1)
-![icons8-python-62](https://github.com/tonycoc/tonycoc/assets/78940146/20c9e856-d33d-4853-bf97-d8767efe036a)
-![icons8-sql-62](https://github.com/tonycoc/tonycoc/assets/78940146/9c65622c-831e-415f-8fbc-d96860a4a1bc)
-![icons8-javascript-62](https://github.com/tonycoc/tonycoc/assets/78940146/4004a354-376f-424a-81a8-a9579439b2f4)
+![icons8-python-62](https://github.com/tonycoc/tonycoc/assets/78940146/20c9e856-d33d-4853-bf97-d8767efe036a) ![icons8-sql-62](https://github.com/tonycoc/tonycoc/assets/78940146/9c65622c-831e-415f-8fbc-d96860a4a1bc)
+
+
 
 
 
 ![icons8-css-100](https://github.com/tonycoc/tonycoc/assets/78940146/1154071d-7fdf-4cc6-b7e9-5656f4f087d4)
 ![icons8-html-100](https://github.com/tonycoc/tonycoc/assets/78940146/0b4675db-de35-46ba-b48f-371318481663)
+![icons8-javascript-90](https://github.com/tonycoc/tonycoc/assets/78940146/4a94bd0c-ab15-485f-bc63-6f8e2276ebdc)
 
 
 ## FrameWork/Tool
