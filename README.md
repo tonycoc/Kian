@@ -1,7 +1,7 @@
 # WhoAmi
 #### hi im kian , a SoftwareDeveloper and creator ,i live in `Iran` 💚🤍❤ 
 
-#### for now i'm working as BackEnd and Telegram Bot Developer *Freelancer*
+#### for now i'm working as BackEnd Developer *Freelancer*
 
 
 # Skills
